@@ -1,0 +1,23 @@
+{
+  "name": "SAAS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzairAjml/SaaS-MediaQuery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UzairAjml/SaaS-MediaQuery/issues"
+  },
+  "homepage": "https://UzairAjml.github.io/SaaS-MediaQuery",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
